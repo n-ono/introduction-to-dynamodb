@@ -1,0 +1,112 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {
+                        "S": "BTS"
+                    },
+                    "SongTitle": {
+                        "S": "Permission To Dance"
+                    },
+                    "Genre": {
+                        "S": "K-Pop"
+                    },
+                    "ReleaseDate": {
+                        "S": "2021-07-09"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {
+                        "S": "Aimer"
+                    },
+                    "SongTitle": {
+                        "S": "残響散歌"
+                    },
+                    "Genre": {
+                        "S": "J-Pop"
+                    },
+                    "ReleaseDate": {
+                        "S": "2022-01-12"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {
+                        "S": "Ylvis"
+                    },
+                    "SongTitle": {
+                        "S": "The Fox"
+                    },
+                    "Genre": {
+                        "S": "ポップ"
+                    },
+                    "ReleaseDate": {
+                        "S": "2013-09-02"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {
+                        "S": "Ado"
+                    },
+                    "SongTitle": {
+                        "S": "新時代"
+                    },
+                    "Genre": {
+                        "S": "J-Pop"
+                    },
+                    "ReleaseDate": {
+                        "S": "2022-06-08"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {
+                        "S": "Ado"
+                    },
+                    "SongTitle": {
+                        "S": "うっせぇわ"
+                    },
+                    "Genre": {
+                        "S": "J-Pop"
+                    },
+                    "ReleaseDate": {
+                        "S": "2020-10-23"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {
+                        "S": "TWICE"
+                    },
+                    "SongTitle": {
+                        "S": "CRY FOR ME"
+                    },
+                    "Genre": {
+                        "S": "K-Pop"
+                    },
+                    "ReleaseDate": {
+                        "S": "2020-12-18"
+                    }
+                }
+            }
+        }
+    ]
+}

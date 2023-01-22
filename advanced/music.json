@@ -1,0 +1,364 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "1"
+                    },
+                    "AttributeKey": {
+                        "S": "アーティスト"
+                    },
+                    "AttributeValue": {
+                        "S": "BTS"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "1"
+                    },
+                    "AttributeKey": {
+                        "S": "タイトル"
+                    },
+                    "AttributeValue": {
+                        "S": "Permission To Dance"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "1"
+                    },
+                    "AttributeKey": {
+                        "S": "ジャンル"
+                    },
+                    "AttributeValue": {
+                        "S": "K-Pop"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "1"
+                    },
+                    "AttributeKey": {
+                        "S": "発売日"
+                    },
+                    "AttributeValue": {
+                        "S": "2021-07-09"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "2"
+                    },
+                    "AttributeKey": {
+                        "S": "アーティスト"
+                    },
+                    "AttributeValue": {
+                        "S": "Aimer"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "2"
+                    },
+                    "AttributeKey": {
+                        "S": "タイトル"
+                    },
+                    "AttributeValue": {
+                        "S": "残響散歌"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "2"
+                    },
+                    "AttributeKey": {
+                        "S": "ジャンル"
+                    },
+                    "AttributeValue": {
+                        "S": "J-Pop"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "2"
+                    },
+                    "AttributeKey": {
+                        "S": "発売日"
+                    },
+                    "AttributeValue": {
+                        "S": "2022-01-12"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "3"
+                    },
+                    "AttributeKey": {
+                        "S": "アーティスト"
+                    },
+                    "AttributeValue": {
+                        "S": "Ylvis"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "3"
+                    },
+                    "AttributeKey": {
+                        "S": "タイトル"
+                    },
+                    "AttributeValue": {
+                        "S": "The Fox"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "3"
+                    },
+                    "AttributeKey": {
+                        "S": "ジャンル"
+                    },
+                    "AttributeValue": {
+                        "S": "ポップ"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "3"
+                    },
+                    "AttributeKey": {
+                        "S": "発売日"
+                    },
+                    "AttributeValue": {
+                        "S": "2013-09-02"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "4"
+                    },
+                    "AttributeKey": {
+                        "S": "アーティスト"
+                    },
+                    "AttributeValue": {
+                        "S": "Ado"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "4"
+                    },
+                    "AttributeKey": {
+                        "S": "タイトル"
+                    },
+                    "AttributeValue": {
+                        "S": "新時代"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "4"
+                    },
+                    "AttributeKey": {
+                        "S": "ジャンル"
+                    },
+                    "AttributeValue": {
+                        "S": "J-Pop"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "4"
+                    },
+                    "AttributeKey": {
+                        "S": "発売日"
+                    },
+                    "AttributeValue": {
+                        "S": "2022-06-08"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "5"
+                    },
+                    "AttributeKey": {
+                        "S": "アーティスト"
+                    },
+                    "AttributeValue": {
+                        "S": "Ado"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "5"
+                    },
+                    "AttributeKey": {
+                        "S": "タイトル"
+                    },
+                    "AttributeValue": {
+                        "S": "うっせぇわ"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "5"
+                    },
+                    "AttributeKey": {
+                        "S": "ジャンル"
+                    },
+                    "AttributeValue": {
+                        "S": "J-Pop"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "5"
+                    },
+                    "AttributeKey": {
+                        "S": "発売日"
+                    },
+                    "AttributeValue": {
+                        "S": "2020-10-23"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "6"
+                    },
+                    "AttributeKey": {
+                        "S": "アーティスト"
+                    },
+                    "AttributeValue": {
+                        "S": "TWICE"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "6"
+                    },
+                    "AttributeKey": {
+                        "S": "タイトル"
+                    },
+                    "AttributeValue": {
+                        "S": "CRY FOR ME"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "6"
+                    },
+                    "AttributeKey": {
+                        "S": "ジャンル"
+                    },
+                    "AttributeValue": {
+                        "S": "K-Pop"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicId": {
+                        "N": "6"
+                    },
+                    "AttributeKey": {
+                        "S": "発売日"
+                    },
+                    "AttributeValue": {
+                        "S": "2020-12-18"
+                    }
+                }
+            }
+        }
+    ]
+}
